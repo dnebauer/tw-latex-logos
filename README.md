@@ -7,10 +7,14 @@ logos is configurable.
 ## Installation ##
 
 Install plugin file
-[$\_\_plugins\_.dtn\_latex-logos.tid](https://github.com/dnebauer/tw-latex-logos/blob/master/plugin/%24__plugins_.dtn_latex-logos.tid) by:
+[$\_\_plugins\_.dtn\_latex-logos.tid](https://github.com/dnebauer/tw-latex-logos/blob/master/plugin/%24__plugins_.dtn_latex-logos.tid)
+to a single file wiki  by:
 
 * Dragging and dropping it into your wiki, or
 * Saving the plugin tiddler file and importing it into your wiki.
+
+Install plugin to a node.js server version by copying the files in the `server`
+directory to `/usr/local/lib/node_modules/tiddlywiki/plugins/dtn/latex-logos`.
 
 ## License ##
 
