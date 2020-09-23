@@ -9,7 +9,7 @@ logos is configurable.
 ### Single file wiki ##
 
 Install plugin file
-[$\_\_plugins\_.dtn\_latex-logos.tid](https://github.com/dnebauer/tw-latex-logos/blob/master/%24__plugins_.dtn_latex-logos.tid)
+[$\_\_plugins\_.dtn\_latex-logos.json](https://github.com/dnebauer/tw-latex-logos/blob/master/%24__plugins_.dtn_latex-logos.json)
 to a single file wiki by:
 
 * Dragging and dropping it into your wiki, or

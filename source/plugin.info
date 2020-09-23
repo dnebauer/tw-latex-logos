@@ -4,7 +4,7 @@
 	"author": "David Nebauer",
 	"version": "0.0.2",
 	"core-version": ">=5.1.18",
-	"source": "https://github.com/dnebauer/tw-latex-logos",
+	"source": "",
 	"list": "readme config credits license",
 	"dependents": "",
 	"plugin-type": "plugin"
